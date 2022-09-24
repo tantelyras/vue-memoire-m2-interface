@@ -30,7 +30,7 @@
               </p>
               <p style="text-align:left">
                 Site web :
-                <a href="#">https://tantelyrasoloniaina.ml</a>
+                <a href="#">https://tantelyras.gq</a>
               </p>
               <ul class="ftco-footer-social list-unstyled mt-4">
                 <li>

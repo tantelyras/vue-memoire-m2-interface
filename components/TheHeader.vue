@@ -48,7 +48,7 @@ export default {
     link:[
       {
       rel:"icon",
-      href:require("/home/tantelinirina/Downloads/Temp/Mémoire M2/webapp/static/images/apple-touch-icon.png")
+      //href:require("http://codeskulptor-demos.commondatastorage.googleapis.com/pang/LdTCEUo.png")
       },
     ]
   },

@@ -104,7 +104,7 @@
                 <p style="text-align:right"> Tél : 
                   <a href="#" style="color:rgb(105, 108, 1)">(+261) 34 43 897 49</a></p>
                 <p style="text-align:right"> Site web : 
-                  <a href="https://tantelyrasoloniaina.ml" style="color:rgb(105, 108, 1)">https://tantelyrasoloniaina.ml</a> 
+                  <a href="https://tantelyras.gq" style="color:rgb(105, 108, 1)">https://tantelyras.gq</a> 
                 </p>
               </div>
             </div>
